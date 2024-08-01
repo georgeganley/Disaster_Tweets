@@ -41,7 +41,7 @@ Confusion matrices and key statistics are summarized below for the performance o
 - Recall for  Training dataset: 0.8821510297482837 
 - F1 Score for  Training dataset: 0.9077708006279435
 
-Confusion Matrix
+
 ![alt text](https://github.com/georgeganley/Disaster_Tweets/blob/main/Images/Training_confusion.png)
 
 ### Out Sample Performance
@@ -51,7 +51,7 @@ Confusion Matrix
 - Recall for  Validation dataset: 0.7812018489984591 
 - F1 Score for  Validation dataset: 0.7940485512920907
 
-Confusion Matrix
+
 ![alt text](https://github.com/georgeganley/Disaster_Tweets/blob/main/Images/Validation_confusion.png)
 
 ## Takeaways and areas for improvement
